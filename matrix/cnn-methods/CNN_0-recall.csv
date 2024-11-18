@@ -1,0 +1,4 @@
+dataset,LE,LE_SS,LE_MM,GD,GD_SS,GD_MM
+Fridge,0.99,0.99,0.99,0.98,0.99,0.98
+GarageDoor,0.98,0.99,0.99,0.99,0.99,0.99
+LinuxProcess,1,0.97,0.98,1,0.97,0.98
